@@ -5,4 +5,4 @@ I'm a student at <a href='https://www.olin.edu' target='_blank' rel='noopener no
 
 You can see my website <a href='https://nabihestefan.github.io' target='_blank' rel='noopener noreferrer'>here</a>
 
-You can see get my resume <a href='https://drive.google.com/file/d/1hsXJncUTFSBe_eURFHkvembx5dUlXKDp/view?usp=sharing' target='_blank' rel='noopener noreferrer'>here</a>
+You can see get my resume <a href='https://drive.google.com/file/d/1l4BaiFPT8BOYPdSEKsmCo4WZ7gGsvhKr/view?usp=sharing'>here</a>
