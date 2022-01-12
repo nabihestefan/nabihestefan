@@ -3,6 +3,4 @@ I'm a student at <a href='https://www.olin.edu' target='_blank' rel='noopener no
 
 [![Pronouns](https://img.shields.io/badge/pronouns-he%2Fhim-9cf)](https://nabihestefan.github.io)  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-nabihestefan?&style=flat&logo=Linkedin&logoColor=white&color=0077B5)](https://www.linkedin.com/in/nabih-estefan/ "Connect on LinkedIn")
 
-You can see my website <a href='https://nabihestefan.github.io' target='_blank' rel='noopener noreferrer'>here</a>
-
-You can see get my resume <a href='https://drive.google.com/file/d/1l4BaiFPT8BOYPdSEKsmCo4WZ7gGsvhKr/view?usp=sharing'>here</a>
+You can see my website <a href='https://nabihestefan.github.io' target='_blank' rel='noopener noreferrer'>here</a> and download the resume there.
